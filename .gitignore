@@ -1,5 +1,8 @@
 __pycache__/
 .ipynb_checkpoints/
-.env
-data/test.csv
-data/train.csv
+.DS_Store
+
+train.xlsx
+test.xlsx
+submission.xlsx
+submission_rf.xlsx
