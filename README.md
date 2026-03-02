@@ -20,3 +20,7 @@ Binary classification problem to predict whether a passenger was transported.
 ## Notes
 - Validation data is derived from training data
 - Test dataset is used only for final prediction
+
+## Model Performance
+- Accuracy: **79.18%**
+- F1-score: **79.52%**
